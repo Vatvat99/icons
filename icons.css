@@ -1,0 +1,25 @@
+body {
+    color: #585e66;
+    font-family: arial, sans-serif;
+}
+
+ul {
+    width: 960px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    font-size: 0;
+}
+
+li {
+    display: inline-block;
+    width: 33.33333%;
+    font-size: 16px;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    fill: #585e66;
+    vertical-align: middle;
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+    <defs>
+        <style>
+            .cls-1 {
+                fill-rule: evenodd;
+            }
+        </style>
+    </defs>
+    <path id="calculator" class="cls-1" d="M32,32A31.629,31.629,0,0,1,64,0H192a31.572,31.572,0,0,1,32,32V224a31.61,31.61,0,0,1-32,32H64a31.629,31.629,0,0,1-32-32V32ZM64,224V192H96v32H64Zm48,0V192h32v32H112Zm48,0V192h32v32H160Zm0-48V144h32v32H160Zm-16,0H112V144h32v32Zm-48,0H64V144H96v32ZM64,128V96H96v32H64Zm48,0V96h32v32H112Zm48,0V96h32v32H160Zm32-48H64V32H192V80Z"/>
+</svg>
