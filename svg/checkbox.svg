@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
-    <defs>
-        <style>
-            .cls-1 {
-                fill-rule: evenodd;
-            }
-        </style>
-    </defs>
-    <path id="checkbox" class="cls-1" d="M16,48A32.183,32.183,0,0,1,48,16H208c17.531,0,32,15.406,32,32V208a32.142,32.142,0,0,1-32,32H48a32.163,32.163,0,0,1-32-32V48ZM48,208V48H208V208H48Z"/>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="checkbox" class="cls-1" d="M16,48A32.183,32.183,0,0,1,48,16H208c17.531,0,32,15.406,32,32V208a32.142,32.142,0,0,1-32,32H48a32.163,32.163,0,0,1-32-32V48Z"/>
 </svg>
